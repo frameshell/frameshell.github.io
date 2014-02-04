@@ -5,6 +5,8 @@ body {
     
     background: #1f8dd6;
     color: #efefef;
+
+    cursor: default;
 }
 
 #wrapper {
@@ -29,4 +31,8 @@ body {
 
     font-size: 20pt;
     text-align: center;
+}
+
+#center:hover {
+    cursor: default;
 }
